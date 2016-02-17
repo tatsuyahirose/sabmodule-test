@@ -1,3 +1,6 @@
 [submodule "gulp-test"]
 	path = gulp-test
 	url = https://github.com/tatsuyahirose/gulp-test.git
+[submodule "canvas-test"]
+	path = canvas-test
+	url = https://github.com/tatsuyahirose/canvas-test.git
