@@ -7,3 +7,9 @@
 [submodule "youtubeAPI"]
 	path = youtubeAPI
 	url = https://github.com/tatsuyahirose/youtubeAPI.git
+[submodule "wordpress"]
+	path = wordpress
+	url = https://github.com/tatsuyahirose/wordpress.git
+[submodule "backbone"]
+	path = backbone
+	url = https://github.com/tatsuyahirose/backbone.git
