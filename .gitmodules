@@ -16,3 +16,9 @@
 [submodule "htmlcss-temp"]
 	path = htmlcss-temp
 	url = https://github.com/tatsuyahirose/htmlcss-temp.git
+[submodule "gmapJS"]
+	path = gmapJS
+	url = https://github.com/tatsuyahirose/gmapJS.git
+[submodule "milkcocoa-test"]
+	path = milkcocoa-test
+	url = https://github.com/tatsuyahirose/milkcocoa-test.git
