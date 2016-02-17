@@ -13,3 +13,6 @@
 [submodule "backbone"]
 	path = backbone
 	url = https://github.com/tatsuyahirose/backbone.git
+[submodule "htmlcss-temp"]
+	path = htmlcss-temp
+	url = https://github.com/tatsuyahirose/htmlcss-temp.git
